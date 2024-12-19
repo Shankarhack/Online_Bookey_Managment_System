@@ -1,1 +1,1 @@
-# Online_Bookey_Managment_System
+An Online Book Management System is a digital platform that allows users to manage, search, and borrow books online. It enables features like book cataloging, user registration, borrowing history, and return management. Admins can manage inventory, track book availability, and update records, providing a seamless user experience.
